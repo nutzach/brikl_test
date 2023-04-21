@@ -1,1 +1,1 @@
-# brikl_test
+Dependencies: Python 3.10.2
